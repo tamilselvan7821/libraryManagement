@@ -1,2 +1,1 @@
 remove user name = arun book id=101
-remove user name = selvan book id=102
