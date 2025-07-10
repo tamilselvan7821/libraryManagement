@@ -1,0 +1,1 @@
+remove user name = arun book id=101
