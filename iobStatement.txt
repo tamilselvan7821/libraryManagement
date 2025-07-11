@@ -1,0 +1,2 @@
+iob statement 
+user tamil withdraw amiunt=1000 date = 1/2/3
